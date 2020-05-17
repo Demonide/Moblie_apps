@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Widget</string>
+    <string name="widget_name">Первый виджет</string>
+    <string name="widget_text">Текст виджета</string>
+    <string name="red">Red</string>
+    <string name="black">Black</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+</resources>
